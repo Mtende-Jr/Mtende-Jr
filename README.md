@@ -2,7 +2,7 @@
 
 As an **IT Guru** in the digital realm, I wield the power of code like a cyber samurai, slicing through problems and defending systems with precision. Whether it’s crafting **powerful websites**, building **dynamic apps**, or tackling complex **data challenges**, I'm ready for the next mission.
 
-![Cyber Samurai GIF](https://github.com/your-username/your-repository-name/blob/main/profile-animation.gif?raw=true)
+![Cyber Samurai GIF](https://github.com/Mtende-Jr/Mtende-Jr/blob/main/said.gif?raw=true)
 
 ### 🔥 What I Do:
 - Mastering the art of **Full-Stack Development**.
