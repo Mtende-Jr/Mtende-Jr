@@ -27,7 +27,7 @@ As an **IT Guru** in the digital realm, I wield the power of code like a cyber s
 
 If you believe in the Cyber Samurai mission — to defend, build, and evolve the digital realm — you can **support future creations** here:
 
-[![Sponsor WEWAS – CYBER SAMURAI](https://img.shields.io/badge/Sponsor-Cyber_Samurai-%23ff0066?style=for-the-badge&logo=githubsponsors)](https://buy.stripe.com/your-stripe-link)
+[![Sponsor WEWAS – CYBER SAMURAI]( https://github.com/sponsors/Mtende-Jr)
 
 Your support helps keep the digital katana sharp ⚔️ and the innovation flowing.
 
