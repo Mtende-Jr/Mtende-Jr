@@ -23,6 +23,14 @@ As an **IT Guru** in the digital realm, I wield the power of code like a cyber s
 3. **Automate** everything — because a samurai doesn’t waste time!
 4. **Learn** relentlessly — in the cyber realm, knowledge is the greatest weapon.
 
+## 💖 Support This Project
+
+If you believe in the Cyber Samurai mission — to defend, build, and evolve the digital realm — you can **support future creations** here:
+
+[![Sponsor WEWAS – CYBER SAMURAI](https://img.shields.io/badge/Sponsor-Cyber_Samurai-%23ff0066?style=for-the-badge&logo=githubsponsors)](https://buy.stripe.com/your-stripe-link)
+
+Your support helps keep the digital katana sharp ⚔️ and the innovation flowing.
+
 ---
 
 **Let's Connect!**
