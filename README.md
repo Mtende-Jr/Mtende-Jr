@@ -91,9 +91,5 @@ As an <b>IT Guru</b> in the digital realm, I wield the power of code like a cybe
 > CYBER SAMURAI ONLINE ⚔️
 
 <p align="center">
-  <marquee behavior="scroll" direction="right" scrollamount="6">
-    <span style="color:#00ff00;">
-      ⚔️ Remember, in the world of technology, only the ones who continuously evolve survive.
-    </span>
-  </marquee>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=900&lines=⚔️+Remember,+in+the+world+of+technology,+only+those+who+continuously+evolve+survive" />
 </p>
