@@ -1,40 +1,79 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=WEWAS+CYBER+SAMURAI;IT+GURU+%7C+OPSEC+ARCHITECT;Build+%7C+Break+%7C+Secure;Where+focus+goes%2C+energy+flows." />
+</p>
+
 # 👨‍💻 Welcome to the World of an **IT Guru** & **Cyber Samurai** 🥷
 
-As an **IT Guru** in the digital realm, I wield the power of code like a cyber samurai, slicing through problems and defending systems with precision. Whether it’s crafting **powerful websites**, building **dynamic apps**, or tackling complex **data challenges**, I'm ready for the next mission.
+<p align="center">
+⚔️ Precision. Discipline. Execution. ⚔️
+</p>
 
-![Cyber Samurai GIF](https://github.com/Mtende-Jr/Mtende-Jr/blob/main/said.gif?raw=true)
+<p align="center">
+As an <b>IT Guru</b> in the digital realm, I wield the power of code like a cyber samurai, slicing through problems and defending systems with precision. Whether it’s crafting <b>powerful websites</b>, building <b>dynamic apps</b>, or tackling complex <b>data challenges</b>, I'm ready for the next mission.
+</p>
 
-### 🔥 What I Do:
-- Mastering the art of **Full-Stack Development**.
-- Crafting pixel-perfect designs as a **Graphic Ninja**.
-- Optimizing systems for **speed and security**.
-- Conquering **cloud deployments** and **CI/CD pipelines**.
+<p align="center">
+<img src="https://github.com/Mtende-Jr/Mtende-Jr/blob/main/said.gif?raw=true" width="70%">
+</p>
 
-### 🧠 Skills & Tools I Use:
-- ⚙️ **Languages**: JavaScript, Python, Ruby, TypeScript
-- 🌐 **Frameworks**: React, Node.js, Express, Next.js, Django, Flask
-- 🎨 **Design**: Figma, Photoshop, Illustrator, and more...
-- 🚀 **Tools**: Git, Docker, AWS, Kubernetes, Vercel, Netlify
-- 🔐 **Security**: Ethical Hacking, Vulnerability Assessment, Penetration Testing
+---
 
-### 🏆 A Cyber Samurai’s Code:
-1. **Adapt** to any technology or framework, mastering its nuances.
-2. **Protect** systems, websites, and applications from the shadows of cyber threats.
-3. **Automate** everything — because a samurai doesn’t waste time!
-4. **Learn** relentlessly — in the cyber realm, knowledge is the greatest weapon.
+## 🔥 What I Do
+- Mastering the art of **Full-Stack Development**
+- Crafting pixel-perfect designs as a **Graphic Ninja**
+- Optimizing systems for **speed and security**
+- Conquering **cloud deployments and CI/CD pipelines**
+
+---
+
+## 🧠 Skills & Tools I Use
+
+### ⚙️ Languages
+`JavaScript` | `Python` | `Ruby` | `TypeScript`
+
+### 🌐 Frameworks
+`React` | `Node.js` | `Express` | `Next.js` | `Django` | `Flask`
+
+### 🎨 Design
+`Figma` | `Photoshop` | `Illustrator`
+
+### 🚀 Tools
+`Git` | `Docker` | `AWS` | `Kubernetes` | `Vercel` | `Netlify`
+
+### 🔐 Security
+`Ethical Hacking` | `Vulnerability Assessment` | `Penetration Testing`
+
+---
+
+## 🏆 A Cyber Samurai’s Code
+1. **Adapt** to any technology or framework  
+2. **Protect** systems from cyber threats  
+3. **Automate** everything — efficiency is power  
+4. **Learn** relentlessly — knowledge is the weapon  
+
+---
+
+## 📊 GITHUB INTEL
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mtende-Jr&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Mtende-Jr&theme=radical" />
+</p>
+
+---
 
 ## 💖 Support This Project
 
-If you believe in the Cyber Samurai mission — to defend, build, and evolve the digital realm — you can **support future creations** here:
-
-[![Sponsor WEWAS – CYBER SAMURAI](https://img.shields.io/badge/Sponsor-Mtende--Jr-%23ff0066?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/Mtende-Jr)
-
-Your support helps keep the digital katana sharp ⚔️ and the innovation flowing.
-
----
-
-**Let's Connect!**
+<p align="center">
+<a href="https://github.com/sponsors/Mtende-Jr">
+  <img src="https://img.shields.io/badge/Sponsor-Mtende--Jr-%23ff0066?style=for-the-badge&logo=githubsponsors">
+</a>
+</p>
 
 ---
 
-**⚔️ Remember, in the world of technology, only the ones who continuously evolve survive.**
+## ⚠️ SYSTEM MESSAGE
+
+```diff
+- Stay static
++ Evolve continuously
