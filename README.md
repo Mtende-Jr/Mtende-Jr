@@ -89,7 +89,7 @@ As an <b>IT Guru</b> in the digital realm, I wield the power of code like a cybe
 > I engineer systems.
 
 > CYBER SAMURAI ONLINE ⚔️
-
+```
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=⚔️+Remember,+in+the+world+of+technology,+only+those+who+continuously+evolve+survive." />
 </p>
